@@ -44,15 +44,15 @@ Get all the [Hyas](https://gethyas.com/) goodness:
 
 There are two main ways to get started with Doks:
 
-1. [Tutorial]({{< ref "tutorial/introduction" >}}) — step-by-step instructions on how to start a new Doks project
-2. [Quick Start]({{< ref "docs/prologue/quick-start" >}}) — one page summary of how to start a new Doks project
+1. [Tutorial](https://getdoks.org/tutorial/introduction/) — step-by-step instructions on how to start a new Doks project
+2. [Quick Start](https://getdoks.org/docs/prologue/quick-start/) — one page summary of how to start a new Doks project
 
 ## Go further
 
-- [Recipes]({{< ref "docs/recipes/project-configuration" >}}). Get instructions on how to accomplish common tasks with Doks.
-- [Reference Guides]({{< ref "docs/reference-guides/security" >}}). Learn how to customize Doks to fully make it your own.
-- [Extensions]({{< ref "docs/extensions/add-google-fonts" >}}). Get instructions on how to add even more to Doks.
-- [Showcase]({{< ref "showcase/causal-data-science-meeting" >}}). See what others have build with Doks.
+- [Recipes](https://getdoks.org/docs/recipes/project-configuration/). Get instructions on how to accomplish common tasks with Doks.
+- [Reference Guides](https://getdoks.org/docs/reference-guides/security/). Learn how to customize Doks to fully make it your own.
+- [Extensions](https://getdoks.org/docs/extensions/add-google-fonts/). Get instructions on how to add even more to Doks.
+- [Showcase](https://getdoks.org/showcase/causal-data-science-meeting/). See what others have build with Doks.
 
 ## Try Doks
 
